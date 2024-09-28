@@ -1,3 +1,2 @@
 # test-repo-for-yash-gupta
-
-This is the second example
+I will try to help student Yash Gupta, even if he does not want to explain what is his problem
